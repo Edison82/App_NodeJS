@@ -4,4 +4,4 @@ const saluda = 'Hola, Buenos dias';
 
  ()=> {
     console.log(saluda + nombre + 'tengo' + num);
-};
+}; 
